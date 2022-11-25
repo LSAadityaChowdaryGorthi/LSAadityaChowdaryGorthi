@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LSAadityaChowdaryGorthi
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Python,HTML,CSS
-- 💞️ I’m looking to collaborate on Pyhton projrcts
+- 💞️ I’m looking to collaborate on Python projrcts
 - 📫 How to reach me ...
 
 <!---
